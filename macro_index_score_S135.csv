@@ -1,0 +1,61 @@
+﻿Country,Year,Score
+United States,2021,0.8835
+United States,2022,0.6357
+United States,2023,0.7892
+Japan,2021,0.1826
+Japan,2022,0.2364
+Japan,2023,0.2378
+Germany,2021,0.2364
+Germany,2022,0.4062
+Germany,2023,0.2684
+United Kingdom,2021,0.3203
+United Kingdom,2022,0.3043
+United Kingdom,2023,0.3196
+France,2021,0.1187
+France,2022,0.1691
+France,2023,0.1737
+Italy,2021,0.3596
+Italy,2022,0.1933
+Italy,2023,0.1367
+Canada,2021,0.3255
+Canada,2022,0.281
+Canada,2023,0.0949
+Australia,2021,0.2561
+Australia,2022,0.087
+Australia,2023,0.3211
+South Korea,2021,0.3662
+South Korea,2022,0.1621
+South Korea,2023,0.0882
+Russia,2021,0.2411
+Russia,2022,0.236
+Russia,2023,0.1573
+Brazil,2021,0.0976
+Brazil,2022,0.288
+Brazil,2023,0.1864
+India,2021,0.2366
+India,2022,0.1285
+India,2023,0.2066
+Mexico,2021,0.229
+Mexico,2022,0.3144
+Mexico,2023,0.2218
+Indonesia,2021,0.2479
+Indonesia,2022,0.2758
+Indonesia,2023,0.2359
+Turkey,2021,0.0971
+Turkey,2022,0.1563
+Turkey,2023,0.2618
+Saudi Arabia,2021,0.2002
+Saudi Arabia,2022,0.3041
+Saudi Arabia,2023,0.1466
+South Africa,2021,0.239
+South Africa,2022,0.1165
+South Africa,2023,0.2867
+Argentina,2021,0.171
+Argentina,2022,0.2327
+Argentina,2023,0.2357
+Spain,2021,0.2135
+Spain,2022,0.344
+Spain,2023,0.2584
+Netherlands,2021,0.1243
+Netherlands,2022,0.1174
+Netherlands,2023,0.1658
